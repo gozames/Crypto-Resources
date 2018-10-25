@@ -23,6 +23,7 @@ Use these links to jump to section
 |---|---|
 |  [CoinCap](http://coincap.io/)  |  Price, Market Cap', VWAP ... |
 |  [CoinMarketCap](https://coinmarketcap.com/)  | Price, Market Cap', API ...  |
+|  [Coinlore](https://www.coinlore.com/)  |  Price, Market Cap', VWAP, API. Team, News, Videos, Technicals ... |
 |  [Coin Gecko](https://www.coingecko.com/en)  | Metrics inc. 'Price', 'Public Interest', 'Developer Rating', 'Community Score'  | 
 |  [Bit Nodes](https://bitnodes.21.co/) |   Info-graphic / Global Map Showing Bitcoin Node Locations| 
 |  [Trade Block](https://tradeblock.com/markets) | Graphical with Market Depth, Order book and Exchange Prices  | 
